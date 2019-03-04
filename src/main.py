@@ -1,11 +1,9 @@
-from dotenv import load_dotenv
 import twitter
 import os
 import fire
 
 from .secret_key import consumer_key, consumer_secret, access_token_key, access_token_secret
 
-load_dotenv(dotenv_path='../.env')
 api = twitter.Api(
     consumer_key=consumer_key,
     consumer_secret=consumer_secret,
