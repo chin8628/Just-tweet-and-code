@@ -31,3 +31,4 @@ Example: `tw "!@#><>"`
 
 - Implement pin code authentication instead of using secret key.
 - Upload to PyPI
+- Improve the module speed
