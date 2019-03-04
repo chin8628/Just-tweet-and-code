@@ -11,4 +11,8 @@ setup(name='just_tweet_and_code',
       entry_points={
           'console_scripts': ['tw=src.main:cli'],
       },
+      install_requires=[
+          'python-twitter==3.5',
+          'fire==0.1.3'
+      ],
       zip_safe=False)
