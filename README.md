@@ -6,6 +6,13 @@ When you want to tweet something while you coding, but you are too lazy to switc
 
 Also, this tool support both English and Thai.
 
+## Features
+- ~~Timeline~~
+- ~~Mention~~
+- ~~Retweet~~
+- ~~Like~~
+- Just tweet only
+
 ## Installation
 
 - Create the `secret.py` in `./src`, then insert your consumer and access token key.
