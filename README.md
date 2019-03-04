@@ -22,8 +22,10 @@ Also, this tool support both English and Thai.
 
 `tw [the message]`
 
-## Limitation
-Now, the module cannot handle some cli-syntax symbol such as `>`. So, please use this module wisely.
+In case you have any special character or symbol in tweet message, don't forget to wrap it by double quote.
+
+
+Example: `tw "!@#><>"`
 
 ## Todo
 
