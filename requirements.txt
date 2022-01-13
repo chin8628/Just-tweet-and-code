@@ -12,7 +12,7 @@ just-tweet-and-code==0.1
 lazy-object-proxy==1.3.1
 mccabe==0.6.1
 oauthlib==3.0.1
-Pillow==5.4.1
+Pillow==9.0.0
 pocket==0.3.6
 pycodestyle==2.5.0
 pyfiglet==0.8.post1
