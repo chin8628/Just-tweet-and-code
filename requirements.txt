@@ -1,4 +1,4 @@
-arrow==0.13.1
+arrow==0.15.1
 astroid==2.2.2
 autopep8==1.4.3
 certifi==2018.11.29
